@@ -1,0 +1,26 @@
+* {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+h1, h3 {
+    background-color: #ff5e9c;
+    color: white;
+}
+
+.subtitle {
+    color: rgb(85, 85, 85);
+}
+
+div .subtitle {
+    font-size: 22px;
+}
+
+a {
+    color: #ff5e9c;
+    font-weight: bold;
+}
+
