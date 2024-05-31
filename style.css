@@ -4,6 +4,7 @@
 
 .center {
     text-align: center;
+    border: 8px double #ff5e9c;
 }
 
 h1, h3 {
@@ -20,7 +21,18 @@ div .subtitle {
 }
 
 a {
-    color: #ff5e9c;
+    background: #ff5e9c;
+    text-decoration: none;
+    color: white;
     font-weight: bold;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    padding: 12px;
+    vertical-align: top;
+    margin-bottom: 12px;
 }
 
+a:hover {
+    background: rgb(255, 174, 188);
+}
