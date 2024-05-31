@@ -6,3 +6,6 @@ I am supposed to create a small website consisting of a main landing page and li
 
 Afterthought:
 I'm quite happy with how it went. As expected, it's not really pretty but I'll add some pink and some glitter to it once I learn how to use CSS :3
+
+Afterafterthought:
+Now there is some pink all around and even some fancy buttons <3
