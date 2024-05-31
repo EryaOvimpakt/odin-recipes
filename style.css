@@ -2,6 +2,10 @@
     font-family: Verdana, Helvetica, Arial, sans-serif;
 }
 
+.recipe {
+    border: 5px double hotpink;
+}
+
 .center {
     text-align: center;
     border: 8px double #ff5e9c;
